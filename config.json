@@ -1,14 +1,6 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "qiqidys": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod",
-      "name": "七七电影自定义",
-    },
-    "lzi": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "粒子自定义",
-    },
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
